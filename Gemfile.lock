@@ -143,7 +143,8 @@ GEM
     kaminari (0.14.1)
       actionpack (>= 3.0.0)
       activesupport (>= 3.0.0)
-    kramdown (1.1.0)
+    kramdown (2.3.0)
+      rexml
     libv8 (3.16.14.3)
     macaddr (1.6.7)
       systemu (~> 2.6.2)
@@ -203,6 +204,7 @@ GEM
     ref (1.0.5)
     rest-client (1.6.7)
       mime-types (>= 1.16)
+    rexml (3.2.4)
     rr (1.1.2)
     rspec (2.14.1)
       rspec-core (~> 2.14.0)
